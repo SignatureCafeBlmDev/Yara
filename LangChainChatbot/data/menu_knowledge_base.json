@@ -1,0 +1,1499 @@
+{
+  "categories": {
+    "Quesadilla": [
+      {
+        "name": "Falafel Quesadilla",
+        "description": "Stuffed with falafel and cheese",
+        "price": 10.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Paneer Quesadilla",
+        "description": "Grilled paneer with herbs",
+        "price": 11.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Chicken Quesadilla",
+        "description": "Spiced chicken with cheese",
+        "price": 11.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Make Your Own Quesadilla",
+        "description": "Custom quesadilla with choice of filling",
+        "price": 12.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      }
+    ],
+    "Kids Meal": [
+      {
+        "name": "Kids Bowl",
+        "description": "Small portion bowl for kids",
+        "price": 6.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      }
+    ],
+    "burger": [
+      {
+        "name": "Veg burger",
+        "description": "burger made with veg patties",
+        "price": 10.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Chicken burger",
+        "description": "burger made with chicken patties",
+        "price": 11.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Beef burger",
+        "description": "burger made with beef patties",
+        "price": 12.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "double burger veg",
+        "description": "burger made with double veg patties",
+        "price": 14.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "double burger chicken",
+        "description": "burger made with double chicken patties",
+        "price": 15.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "double burger beef",
+        "description": "burger made with double beef patties",
+        "price": 16.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      }
+    ],
+    "main": [
+      {
+        "name": "AL-FAHM CHICKEN",
+        "description": "chargrilled chicken leg quarters",
+        "price": 26.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "PERSIAN LAMB SHANK",
+        "description": "4 hours oven cooked lamb shanks",
+        "price": 26.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      }
+    ],
+    "Kebab": [
+      {
+        "name": "Paneer Tikka Kebab",
+        "description": "Grilled spiced paneer with rice and salad",
+        "price": 14.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Malai Paneer Kebab",
+        "description": "Creamy paneer kebabs",
+        "price": 14.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Lamb Skewers",
+        "description": "Chargrilled lamb skewers",
+        "price": 16.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Beef Skewers",
+        "description": "Juicy beef skewers",
+        "price": 16.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Beef Kofta",
+        "description": "Ground beef kebab",
+        "price": 16.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Signature Chicken Kebab",
+        "description": "House-marinated chicken kebab",
+        "price": 15.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Minty Chicken Kebab",
+        "description": "Mint marinated chicken kebab",
+        "price": 15.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Shish Tawook",
+        "description": "Middle Eastern grilled chicken kebab",
+        "price": 15.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Chicken Tikka Kebab",
+        "description": "Spiced Indian-style chicken kebab",
+        "price": 15.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Chicken Kofta",
+        "description": "Ground chicken skewers",
+        "price": 16.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      }
+    ],
+    "Side": [
+      {
+        "name": "Rice",
+        "description": "Plain rice portion",
+        "price": 1.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Falafel",
+        "description": "4 pcs fried falafel",
+        "price": 4.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Pita Chips",
+        "description": "Crispy pita chips",
+        "price": 4.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Pita Bread",
+        "description": "Soft pita bread",
+        "price": 1.49,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Lentil Soup",
+        "description": "Hearty lentil soup with Middle Eastern spices",
+        "price": 4.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Fries",
+        "description": "Crispy golden fries",
+        "price": 3.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      }
+    ],
+    "Drink": [
+      {
+        "name": "Passion Fruit Refresher",
+        "description": "Fruit-based refresher",
+        "price": 4.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Kiwi Refresher",
+        "description": "Fruit-based refresher",
+        "price": 4.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Mango Refresher",
+        "description": "Fruit-based refresher",
+        "price": 4.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Strawberry Refresher",
+        "description": "Fruit-based refresher",
+        "price": 4.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Peach Refresher",
+        "description": "Fruit-based refresher",
+        "price": 4.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Pineapple Refresher",
+        "description": "Fruit-based refresher",
+        "price": 4.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Mango Milkshake",
+        "description": "Signature milkshake",
+        "price": 7.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Strawberry Milkshake",
+        "description": "Signature milkshake",
+        "price": 7.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Custard Apple Milkshake",
+        "description": "Signature milkshake",
+        "price": 8.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Chikoo Milkshake",
+        "description": "Signature milkshake",
+        "price": 7.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Guava Milkshake",
+        "description": "Signature milkshake",
+        "price": 7.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Mango Lassi",
+        "description": "Traditional mango yogurt drink",
+        "price": 4.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Fresh Lemonade",
+        "description": "Fresh squeezed lemonade",
+        "price": 4.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      }
+    ],
+    "Dessert": [
+      {
+        "name": "Crispy dubai chocolate",
+        "description": "Delicious and freshly prepared.",
+        "price": 11.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Signature Royal Falooda",
+        "description": "Layered Indian dessert drink",
+        "price": 10.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Strawberry Chocolate",
+        "description": "Delicious and freshly prepared.",
+        "price": 11.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "White Strawberry chocolate",
+        "description": "Delicious and freshly prepared.",
+        "price": 11.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "baklava small",
+        "description": "Delicious and freshly prepared.",
+        "price": 2.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Baklava 8pc",
+        "description": "Delicious and freshly prepared.",
+        "price": 13.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Nutella kunafa",
+        "description": "Delicious and freshly prepared.",
+        "price": 7.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Biscoff kunafa",
+        "description": "Delicious and freshly prepared.",
+        "price": 7.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Pistachio Kunafa",
+        "description": "Delicious and freshly prepared.",
+        "price": 8.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Dubai Chocolate bar",
+        "description": "Delicious and freshly prepared.",
+        "price": 6.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Dubai Chocolate heart",
+        "description": "Delicious and freshly prepared.",
+        "price": 7.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Dubai Chocolate Big Bar",
+        "description": "Delicious and freshly prepared.",
+        "price": 20.0,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Dubai Chocolate Kitty",
+        "description": "Delicious and freshly prepared.",
+        "price": 7.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Dubai Chocolate Baklava",
+        "description": "Delicious and freshly prepared.",
+        "price": 9.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Live kunafa",
+        "description": "Delicious and freshly prepared.",
+        "price": 7.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Peanut butter Explosion",
+        "description": "Delicious and freshly prepared.",
+        "price": 7.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      },
+      {
+        "name": "Chocolate Temptation",
+        "description": "Delicious and freshly prepared.",
+        "price": 7.99,
+        "dietary_tags": [],
+        "ingredients": [
+          "nan"
+        ],
+        "calories": 400,
+        "allergens": [
+          "nan"
+        ],
+        "preparation": "Grilled"
+      }
+    ]
+  },
+  "ingredients": {
+    "Seasoned Basmati Rice": {
+      "type": "Grain",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian",
+        "Vegan"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Saffron Rice": {
+      "type": "Grain",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian",
+        "Vegan"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Brown Lentils": {
+      "type": "Grain",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian",
+        "Vegan"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Romaine Lettuce": {
+      "type": "Green",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian",
+        "Vegan"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Super Greens": {
+      "type": "Green",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian",
+        "Vegan"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Hummus": {
+      "type": "Dip",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Roasted Pepper Hummus": {
+      "type": "Dip",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Baba Ganoush": {
+      "type": "Dip",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Fantastic Feta": {
+      "type": "Dip",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Falafel": {
+      "type": "Protein",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Shawarma Chicken": {
+      "type": "Protein",
+      "dietary_tags": [
+        "Gluten Free"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Grilled Chicken": {
+      "type": "Protein",
+      "dietary_tags": [
+        "Gluten Free"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Minced Lamb": {
+      "type": "Protein",
+      "dietary_tags": [
+        "Gluten Free"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Steak Shawarma": {
+      "type": "Protein",
+      "dietary_tags": [
+        "Gluten Free"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Fried Cauliflower": {
+      "type": "Veggie",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Stir Fried Eggplant": {
+      "type": "Veggie",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Paneer Tikka": {
+      "type": "Veggie",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Purple Cabbage": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Cool Cucumber": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Sumac Onion": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Roasted Corn": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Hot Giardiniera": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Jerusalem Salad": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Country Salad": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Shredded Cheese": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Crunchy Onions": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Banana Peppers": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Avocado": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Sliced Pickles": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Pita Chips": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Vegetarian",
+        "vegan"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Green Olives": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Black Olives": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "sumac": {
+      "type": "Topping",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Tzatziki": {
+      "type": "Toppings",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Turnip": {
+      "type": "Toppings",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Signature Garlic Sauce": {
+      "type": "Sauce",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Skhug": {
+      "type": "Sauce",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Tahini": {
+      "type": "Sauce",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Tikka Sauce": {
+      "type": "Sauce",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Spicy Habanero": {
+      "type": "Sauce",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "Spicy Tatbeleh": {
+      "type": "Sauce",
+      "dietary_tags": [
+        "Gluten Free",
+        "Vegan",
+        "Vegetarian"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    },
+    "ON ORDER MENU": {
+      "type": "Topping",
+      "dietary_tags": [
+        "nan"
+      ],
+      "calories": 50,
+      "allergens": [
+        "nan"
+      ],
+      "preparation": "Fresh"
+    }
+  },
+  "dietary_profiles": {
+    "gluten_free": {
+      "allow": [
+        "Seasoned Basmati Rice",
+        "Saffron Rice",
+        "Brown Lentils",
+        "Romaine Lettuce",
+        "Super Greens",
+        "Hummus",
+        "Roasted Pepper Hummus",
+        "Baba Ganoush",
+        "Fantastic Feta",
+        "Falafel",
+        "Shawarma Chicken",
+        "Grilled Chicken",
+        "Minced Lamb",
+        "Steak Shawarma",
+        "Fried Cauliflower",
+        "Stir Fried Eggplant",
+        "Paneer Tikka",
+        "Purple Cabbage",
+        "Cool Cucumber",
+        "Sumac Onion",
+        "Roasted Corn",
+        "Hot Giardiniera",
+        "Jerusalem Salad",
+        "Country Salad",
+        "Shredded Cheese",
+        "Crunchy Onions",
+        "Banana Peppers",
+        "Avocado",
+        "Sliced Pickles",
+        "Green Olives",
+        "Black Olives",
+        "sumac",
+        "Tzatziki",
+        "Turnip",
+        "Signature Garlic Sauce",
+        "Skhug",
+        "Tahini",
+        "Tikka Sauce",
+        "Spicy Habanero",
+        "Spicy Tatbeleh"
+      ],
+      "exclude": []
+    },
+    "vegan": {
+      "allow": [
+        "Seasoned Basmati Rice",
+        "Saffron Rice",
+        "Brown Lentils",
+        "Romaine Lettuce",
+        "Super Greens",
+        "Hummus",
+        "Roasted Pepper Hummus",
+        "Baba Ganoush",
+        "Falafel",
+        "Fried Cauliflower",
+        "Stir Fried Eggplant",
+        "Purple Cabbage",
+        "Cool Cucumber",
+        "Sumac Onion",
+        "Roasted Corn",
+        "Hot Giardiniera",
+        "Jerusalem Salad",
+        "Country Salad",
+        "Crunchy Onions",
+        "Banana Peppers",
+        "Avocado",
+        "Sliced Pickles",
+        "Green Olives",
+        "Black Olives",
+        "sumac",
+        "Turnip",
+        "Skhug",
+        "Tahini",
+        "Spicy Tatbeleh"
+      ],
+      "exclude": []
+    },
+    "vegetarian": {
+      "allow": [
+        "Seasoned Basmati Rice",
+        "Saffron Rice",
+        "Brown Lentils",
+        "Romaine Lettuce",
+        "Super Greens",
+        "Hummus",
+        "Roasted Pepper Hummus",
+        "Baba Ganoush",
+        "Fantastic Feta",
+        "Falafel",
+        "Fried Cauliflower",
+        "Stir Fried Eggplant",
+        "Paneer Tikka",
+        "Purple Cabbage",
+        "Cool Cucumber",
+        "Sumac Onion",
+        "Roasted Corn",
+        "Hot Giardiniera",
+        "Jerusalem Salad",
+        "Country Salad",
+        "Shredded Cheese",
+        "Crunchy Onions",
+        "Banana Peppers",
+        "Avocado",
+        "Sliced Pickles",
+        "Pita Chips",
+        "Green Olives",
+        "Black Olives",
+        "sumac",
+        "Tzatziki",
+        "Turnip",
+        "Signature Garlic Sauce",
+        "Skhug",
+        "Tahini",
+        "Tikka Sauce",
+        "Spicy Habanero",
+        "Spicy Tatbeleh"
+      ],
+      "exclude": []
+    }
+  }
+}
